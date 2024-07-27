@@ -1,0 +1,90 @@
+{
+  "Shared": {
+    "get_started": "Commencer"
+  },
+  "Navbar": {
+    "app_name": "Application"
+  },
+  "RootLayout": {
+    "home_link": "Accueil",
+    "about_link": "À propos",
+    "sign_in_link": "Se connecter",
+    "sign_up_link": "S'inscrire"
+  },
+  "BaseTemplate": {
+    "description": "Code de démarrage pour votre Nextjs Boilerplate avec Tailwind CSS",
+    "made_with": "Fait avec"
+  },
+  "Index": {
+    "meta_title": "Application",
+    "meta_description": "Créez et partagez des menus personnalisés sans effort. Avec App, vos clients peuvent commander et profiter de vos offres avec un simple lien.",
+    "hero": {
+      "title": "Menus simplifiés",
+      "caption": "Gérez facilement votre menu, suivez les commandes et engagez les clients avec des QR codes. \n Améliorez le service et obtenez des informations précieuses avec notre plateforme tout-en-un."
+    },
+    "cta": {
+      "title": "Prêt à commencer? \n Inscrivez-vous aujourd'hui et faites la différence."
+    },
+    "features": {
+      "title": "Comment nous pouvons aider",
+      "cards": [
+        {
+          "name": "Éditeur de menu numérique",
+          "description": "Créez et mettez à jour facilement des menus accessibles via des QR codes, garantissant que les clients voient toujours les dernières offres.",
+          "icon": "qrcode"
+        },
+        {
+          "name": "Système de gestion des commandes",
+          "description": "Simplifiez le traitement des commandes et réduisez les erreurs avec une interface conviviale qui simplifie le suivi et la gestion des commandes.",
+          "icon": "list"
+        },
+        {
+          "name": "Engagement client",
+          "description": "Avec un QR code unique, vos clients peuvent parcourir et commander depuis votre menu en toute transparence, et inviter des amis à rejoindre leur table, améliorant ainsi leur expérience culinaire.",
+          "icon": "happy"
+        },
+        {
+          "name": "Gestion des réservations",
+          "description": "Permettez aux clients de réserver des tables à l'avance, réduisant les temps d'attente et garantissant une expérience culinaire fluide.",
+          "icon": "calendar"
+        },
+        {
+          "name": "Gestion en temps réel",
+          "description": "Visualisez l'occupation des tables ou des zones et le statut des commandes en temps réel, permettant au personnel de gérer efficacement les tables et le service.",
+          "icon": "time"
+        },
+        {
+          "name": "Analyses et rapports",
+          "description": "Obtenez des informations sur le comportement des clients, les modèles de commande et l'efficacité opérationnelle avec des outils d'analyse et de reporting détaillés.",
+          "icon": "reporting"
+        }
+      ]
+    }
+  },
+  "About": {
+    "meta_title": "À propos",
+    "meta_description": "Description de la page À propos",
+    "about_paragraph": "Bienvenue sur notre page À propos ! Nous sommes une équipe de passionnés dédiés à la création de logiciels étonnants.",
+    "translation_powered_by": "Traduction propulsée par"
+  },
+  "SignIn": {
+    "meta_title": "Se connecter",
+    "meta_description": "Connectez-vous sans effort à votre compte grâce à notre processus de connexion convivial."
+  },
+  "SignUp": {
+    "meta_title": "S'inscrire",
+    "meta_description": "Créez facilement un compte grâce à notre processus d'inscription intuitif."
+  },
+  "Dashboard": {
+    "meta_title": "Tableau de bord",
+    "hello_message": "Bonjour {email} !"
+  },
+  "UserProfile": {
+    "meta_title": "Profil utilisateur"
+  },
+  "DashboardLayout": {
+    "dashboard_link": "Tableau de bord",
+    "user_profile_link": "Gérer votre compte",
+    "sign_out": "Se déconnecter"
+  }
+}

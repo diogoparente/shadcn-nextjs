@@ -1,0 +1,90 @@
+{
+  "Shared": {
+    "get_started": "Get started"
+  },
+  "Navbar": {
+    "app_name": "App"
+  },
+  "RootLayout": {
+    "home_link": "Home",
+    "about_link": "About",
+    "sign_in_link": "Sign in",
+    "sign_up_link": "Sign up"
+  },
+  "BaseTemplate": {
+    "description": "Starter code for your Nextjs Boilerplate with Tailwind CSS",
+    "made_with": "Made with"
+  },
+  "Index": {
+    "meta_title": "App",
+    "meta_description": "Create and share custom menus effortlessly. With App, your customers can order, and enjoy your offerings with a simple link.",
+    "hero": {
+      "title": "Menus made simple",
+      "caption": "Easily manage your menu, track orders, and engage customers with QR codes. \n Improve service and gain valuable insights with our all-in-one platform."
+    },
+    "cta": {
+      "title": "Ready to get started? \n Sign up today and experience the difference."
+    },
+    "features": {
+      "title": "How we can help",
+      "cards": [
+        {
+          "name": "Digital Menu Editor",
+          "description": "Easily create and update menus that are accessible via QR codes, ensuring customers always see the latest offerings.",
+          "icon": "qrcode"
+        },
+        {
+          "name": "Order Management System",
+          "description": "Streamline order processing and reduce errors with a user-friendly interface that simplifies order tracking and management.",
+          "icon": "list"
+        },
+        {
+          "name": "Customer Engagement",
+          "description": "With a unique QR code, your customers can browse and order from your menu seamlessly, and invite friends to join their table, enhancing their dining experience.",
+          "icon": "happy"
+        },
+        {
+          "name": "Reservation Management",
+          "description": "Allow customers to reserve tables in advance, reducing wait times and ensuring a smooth dining experience.",
+          "icon": "calendar"
+        },
+        {
+          "name": "Real-Time Management",
+          "description": "Visualize table or area occupancy and order status in real-time, allowing staff to efficiently manage tables and service.",
+          "icon": "time"
+        },
+        {
+          "name": "Analytics and Reporting",
+          "description": "Gain insights into customer behavior, order patterns, and operational efficiency with detailed analytics and reporting tools.",
+          "icon": "reporting"
+        }
+      ]
+    }
+  },
+  "About": {
+    "meta_title": "About",
+    "meta_description": "About page description",
+    "about_paragraph": "Welcome to our About page! We are a team of passionate individuals dedicated to creating amazing software.",
+    "translation_powered_by": "Translation powered by"
+  },
+  "SignIn": {
+    "meta_title": "Sign in",
+    "meta_description": "Seamlessly sign in to your account with our user-friendly login process."
+  },
+  "SignUp": {
+    "meta_title": "Sign up",
+    "meta_description": "Effortlessly create an account through our intuitive sign-up process."
+  },
+  "Dashboard": {
+    "meta_title": "Dashboard",
+    "hello_message": "Hello {email}!"
+  },
+  "UserProfile": {
+    "meta_title": "User Profile"
+  },
+  "DashboardLayout": {
+    "dashboard_link": "Dashboard",
+    "user_profile_link": "Manage your account",
+    "sign_out": "Sign out"
+  }
+}

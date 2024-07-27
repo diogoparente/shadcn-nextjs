@@ -1,0 +1,90 @@
+{
+  "Shared": {
+    "get_started": "Começar"
+  },
+  "Navbar": {
+    "app_name": "Aplicação"
+  },
+  "RootLayout": {
+    "home_link": "Início",
+    "about_link": "Sobre",
+    "sign_in_link": "Entrar",
+    "sign_up_link": "Registar"
+  },
+  "BaseTemplate": {
+    "description": "Código inicial para o seu Nextjs Boilerplate com Tailwind CSS",
+    "made_with": "Feito com"
+  },
+  "Index": {
+    "meta_title": "Aplicação",
+    "meta_description": "Crie e partilhe menus personalizados sem esforço. Com a Aplicação, os seus clientes podem encomendar e desfrutar das suas ofertas com um simples link.",
+    "hero": {
+      "title": "Menus simplificados",
+      "caption": "Gerencie facilmente o seu menu, acompanhe pedidos e envolva clientes com códigos QR. \n Melhore o serviço e obtenha informações valiosas com a nossa plataforma tudo-em-um."
+    },
+    "cta": {
+      "title": "Pronto para começar? \n Registe-se hoje e sinta a diferença."
+    },
+    "features": {
+      "title": "Como podemos ajudar",
+      "cards": [
+        {
+          "name": "Editor de Menu Digital",
+          "description": "Crie e atualize facilmente menus acessíveis através de códigos QR, garantindo que os clientes vejam sempre as últimas ofertas.",
+          "icon": "qrcode"
+        },
+        {
+          "name": "Sistema de Gestão de Pedidos",
+          "description": "Simplifique o processamento de pedidos e reduza erros com uma interface amigável que simplifica o acompanhamento e gestão de pedidos.",
+          "icon": "list"
+        },
+        {
+          "name": "Envolvimento do Cliente",
+          "description": "Com um código QR único, os seus clientes podem navegar e encomendar a partir do seu menu sem problemas, e convidar amigos para se juntarem à sua mesa, melhorando a sua experiência gastronómica.",
+          "icon": "happy"
+        },
+        {
+          "name": "Gestão de Reservas",
+          "description": "Permita que os clientes reservem mesas com antecedência, reduzindo os tempos de espera e garantindo uma experiência gastronómica suave.",
+          "icon": "calendar"
+        },
+        {
+          "name": "Gestão em Tempo Real",
+          "description": "Visualize a ocupação das mesas ou áreas e o status dos pedidos em tempo real, permitindo que o pessoal gerencie eficientemente as mesas e o serviço.",
+          "icon": "time"
+        },
+        {
+          "name": "Análises e Relatórios",
+          "description": "Obtenha insights sobre o comportamento dos clientes, padrões de pedidos e eficiência operacional com ferramentas detalhadas de análise e relatórios.",
+          "icon": "reporting"
+        }
+      ]
+    }
+  },
+  "About": {
+    "meta_title": "Sobre",
+    "meta_description": "Descrição da página Sobre",
+    "about_paragraph": "Bem-vindo à nossa página Sobre! Somos uma equipa de indivíduos apaixonados dedicados à criação de software incrível.",
+    "translation_powered_by": "Tradução alimentada por"
+  },
+  "SignIn": {
+    "meta_title": "Entrar",
+    "meta_description": "Faça login na sua conta sem problemas com o nosso processo de login amigável."
+  },
+  "SignUp": {
+    "meta_title": "Registar",
+    "meta_description": "Crie uma conta sem esforço através do nosso processo intuitivo de registo."
+  },
+  "Dashboard": {
+    "meta_title": "Painel",
+    "hello_message": "Olá {email}!"
+  },
+  "UserProfile": {
+    "meta_title": "Perfil do Utilizador"
+  },
+  "DashboardLayout": {
+    "dashboard_link": "Painel",
+    "user_profile_link": "Gerir a sua conta",
+    "sign_out": "Sair"
+  }
+}
